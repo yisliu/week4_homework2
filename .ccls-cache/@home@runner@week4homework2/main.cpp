@@ -15,7 +15,6 @@ int main() {
       for(int j = 0; j<4; j++, i++){
         if(str1[i]=='L'){
           counter++;
-          cout<<counter;
         }
         else{
           continue;
